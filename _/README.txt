@@ -1,0 +1,2 @@
+The chapters, 11, 12 and 13, themselves contain instructions for executing code and do not deal with code heavy topics.
+Android Studio and SDK are both open source and can be installed from a single package. With one minor exception, which is outlined thoroughly in the relevant chapter, this is all the software required for this book.
